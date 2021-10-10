@@ -33,7 +33,7 @@ export const projectsData = [
     info: '• Leveraged programming knowledge in ReactJS (JavaScript library) and Gatsby to build a personal website',
     info2: '• Used GitHub and Netlify to source code and generate a host origin',
     url: '',
-    repo: 'https://github.com/ejlu17/my-website', // if no repo, the button will not show up
+    repo: 'https://github.com/ejlu17/website', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
